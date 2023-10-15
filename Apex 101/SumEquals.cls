@@ -1,3 +1,3 @@
 public Boolean sumEquals(Integer a, Integer b, Integer c) {
-    //code here
+    return a + b == c;
 }
