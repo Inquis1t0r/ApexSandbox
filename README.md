@@ -2,3 +2,4 @@
 TODO:
   - [ ] markdown table !!!!!!!!!
   - [ ] Notion notes
+  - [ ] Clean code solutions
