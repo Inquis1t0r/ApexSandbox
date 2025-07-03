@@ -1,0 +1,3 @@
+public Integer sumToN(Integer n) {
+    //code here
+}
